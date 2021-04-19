@@ -1,0 +1,58 @@
+body
+{
+	background: #FFFFFF url("images/background.jpg") 100%;
+	font-family: 'Pacifico', cursive;
+	
+	margin: 0;
+	padding: 0;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content
+{
+
+	width: 1000px;
+	padding: 20px;
+	
+	border-radius: 100px;
+	
+	background: rgba(255, 255, 255, 0.95);
+	
+	align-items: center;
+	
+	display: flex;
+	flex-direction: column;
+}
+
+
+.storeTitle
+{
+	font-size: 50px;
+	font-weight: 100;
+	color: #FF0000;
+}
+
+
+
+.startButton
+{
+	border-radius: 40px;
+	width: 200px;
+	height: 50px;
+	
+	text-decoration: none;
+	outline: none;
+	
+	border: 0;
+	
+	font-size: 20px;
+	font-family: Calibri, sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+	
+	background: #FF0000;
+	
+}
